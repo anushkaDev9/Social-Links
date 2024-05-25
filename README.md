@@ -14,4 +14,5 @@ Your users should be able to:
 ## Author
 - Frontend Mentor - [@anushkaDev9](https://www.frontendmentor.io/profile/anushkaDev9)
 ### Preview 
+https://github.com/anushkaDev9/Social-Links/assets/83566191/c20d1281-bdea-4c77-9587-699b05da312a
 
